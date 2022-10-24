@@ -1,0 +1,10 @@
+{
+    "name": "foo",
+    "title": "bar",
+    "age": 28,
+    "isReady": true,
+    "packages": [
+        "numpy",
+        "pandas"
+    ]
+}

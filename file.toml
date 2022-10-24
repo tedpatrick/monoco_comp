@@ -1,0 +1,8 @@
+packages = [
+    "bokeh",
+    "numpy"
+]
+paths = [
+    "./utils.py",
+    "./antigravity.py"
+]
